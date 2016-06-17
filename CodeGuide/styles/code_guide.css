@@ -1,3 +1,7 @@
+---
+layout: nil
+---
+
 /*
  * Fonts
  */
@@ -56,7 +60,7 @@ html {
 body {
     margin: 0;
 
-    font: 1rem/1.5 "å¾®è½¯é›…é»‘","PT Sans", sans-serif;
+    font: 1rem/1.5 "微软雅黑","PT Sans", sans-serif;
 
     color: #5a5a5a;
 }
